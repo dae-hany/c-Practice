@@ -315,7 +315,34 @@
     <ClCompile Include="xfind 함수 만들기 7.cpp">
       <Filter>소스 파일\11장</Filter>
     </ClCompile>
-    <ClCompile Include="함수 객체.cpp">
+    <ClCompile Include="함수 객체 1.cpp">
+      <Filter>소스 파일\11장</Filter>
+    </ClCompile>
+    <ClCompile Include="함수 객체 2.cpp">
+      <Filter>소스 파일\11장</Filter>
+    </ClCompile>
+    <ClCompile Include="함수 객체 3.cpp">
+      <Filter>소스 파일\11장</Filter>
+    </ClCompile>
+    <ClCompile Include="함수 객체를 사용하는 이유 1.cpp">
+      <Filter>소스 파일\11장</Filter>
+    </ClCompile>
+    <ClCompile Include="함수 객체를 사용하는 이유 2.cpp">
+      <Filter>소스 파일\11장</Filter>
+    </ClCompile>
+    <ClCompile Include="함수 객체를 사용하는 이유 3.cpp">
+      <Filter>소스 파일\11장</Filter>
+    </ClCompile>
+    <ClCompile Include="함수 객체를 사용하는 이유 4.cpp">
+      <Filter>소스 파일\11장</Filter>
+    </ClCompile>
+    <ClCompile Include="함수 객체를 사용하는 이유 5.cpp">
+      <Filter>소스 파일\11장</Filter>
+    </ClCompile>
+    <ClCompile Include="내가 직접 만든 vector.cpp">
+      <Filter>소스 파일\11장</Filter>
+    </ClCompile>
+    <ClCompile Include="내가 직접 만든 vector 연습장.cpp">
       <Filter>소스 파일\11장</Filter>
     </ClCompile>
   </ItemGroup>
