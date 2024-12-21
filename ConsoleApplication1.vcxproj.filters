@@ -519,5 +519,146 @@
     <ClCompile Include="union.cpp">
       <Filter>소스 파일\6장</Filter>
     </ClCompile>
+    <ClCompile Include="포인터란 1.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터란 2.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터란 3.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터란 4.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터란 5.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터란 6.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터란 7.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 자료형의 의미 1.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 자료형의 의미 2.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 자료형의 의미 3.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 자료형의 의미 4.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 자료형의 의미 5.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 자료형의 의미 6.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 자료형의 의미 7.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 자료형의 의미 8.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 자료형의 의미 9.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 자료형의 의미 10.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 자료형의 의미 11.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 자료형의 의미 12.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터의 뺄셈 연산.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="deliver arrays 1.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="deliver arrays 2.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="댕글링 포인터.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="동적 메모리 할당 new 1.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="동적 메모리 할당 new 2.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="동적 메모리 할당 new 3.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="댕글링 포인터 피하기 1.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="댕글링 포인터 피하기 2.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="메모리를 저장하는 4가지 영역.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="deliver structures 1.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="deliver structures 2.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="function pointer 1.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="function pointer 2.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="function pointer 3.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="function pointer 4.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="function pointer 5.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="function pointer 6.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="const 와 포인터.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="레퍼런스 1.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="레퍼런스 2.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="레퍼런스 3.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="레퍼런스를 사용하는 이유 1.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="레퍼런스를 사용하는 이유 2.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="레퍼런스를 사용하는 이유 3.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="레퍼런스를 사용하는 이유 4.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="레퍼런스를 사용하는 이유 5.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="레퍼런스를 사용하는 이유 6.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
