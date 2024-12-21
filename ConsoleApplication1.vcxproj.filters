@@ -699,5 +699,44 @@
     <ClCompile Include="클래스의 멤버 함수의 주소.cpp">
       <Filter>소스 파일\9장</Filter>
     </ClCompile>
+    <ClCompile Include="Caesar cipher two [Easy].cpp">
+      <Filter>소스 파일\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="Quite advanced calculator [Easy].cpp">
+      <Filter>소스 파일\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="Find a string [Normal].cpp">
+      <Filter>소스 파일\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="Touring the 2D array with a pointer [Easy] .cpp">
+      <Filter>소스 파일\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="my_memcpy [Normal].cpp">
+      <Filter>소스 파일\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="mystrcat [Easy].cpp">
+      <Filter>소스 파일\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="Reverse linked list [Normal].cpp">
+      <Filter>소스 파일\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="Calculator with a class [Easy].cpp">
+      <Filter>소스 파일\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue [Normal].cpp">
+      <Filter>소스 파일\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="Linked list with classes [Normal].cpp">
+      <Filter>소스 파일\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="Upgrade the Linked list class [Normal].cpp">
+      <Filter>소스 파일\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="Hash table .cpp">
+      <Filter>소스 파일\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="Remove duplicate elements in the vector.cpp">
+      <Filter>소스 파일\과제</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
