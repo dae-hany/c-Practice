@@ -1,3 +1,4 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(ConsoleApplication1.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
-  자명한 생성자가 성능을 올려주는 이유 3.cpp
+  union.cpp
+C:\Users\Daehan\source\repos\ConsoleApplication1\ConsoleApplication1\union.cpp(1,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
   ConsoleApplication1.vcxproj -> C:\Users\Daehan\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

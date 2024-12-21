@@ -43,8 +43,20 @@
     <Filter Include="소스 파일\11장">
       <UniqueIdentifier>{c72281c6-16e2-4a7e-8dfd-f5c3295aebf3}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\NewFilter1">
+    <Filter Include="소스 파일\12장">
       <UniqueIdentifier>{b5a8f562-c70f-423b-856e-6aaeb8188936}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\6장">
+      <UniqueIdentifier>{827a7f8c-1f11-4066-90e9-645cf78cfd79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\7장">
+      <UniqueIdentifier>{4120577d-d422-417b-9633-639364473792}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\8장">
+      <UniqueIdentifier>{e8818288-f95a-4468-a6cf-93b937428a48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\9장">
+      <UniqueIdentifier>{3aacccea-6c16-4f1f-8607-af9935bdc345}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -344,6 +356,168 @@
     </ClCompile>
     <ClCompile Include="내가 직접 만든 vector 연습장.cpp">
       <Filter>소스 파일\11장</Filter>
+    </ClCompile>
+    <ClCompile Include="RTT1 4.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="RTTI 1.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="RTTI 2.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="RTTI 3.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="RTTI 5.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="virtual과 함께하는 생성자와 파괴자 1.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="virtual과 함께하는 생성자와 파괴자 2.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="virtual과 함께하는 생성자와 파괴자 3.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="상속 접근 지정자 1.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="상속 접근 지정자 2.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="상속 접근 지정자 3.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="상속 접근 지정자 4.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="상속 접근 지정자 5.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="상속 접근 지정자 6.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="상속 접근 지정자 7.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="상속에서의 생성자와 파괴자 1.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="상속에서의 생성자와 파괴자 2.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="상속을 사용하는 이유 1.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="상속을 사용하는 이유 2.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="생성자 없이 객체를 호출하면 1.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="생성자 없이 객체를 호출하면 2.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="생성자 없이 객체를 호출하면 3.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="생성자 없이 객체를 호출하면 4.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="스택 만들기 _ has a relation1.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="스택 만들기 _ has a relation2.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="스택 만들기 _ is a relation.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="업캐스팅과 다운캐스팅 1.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="업캐스팅과 다운캐스팅 2.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="업캐스팅과 다운캐스팅 3.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="업캐스팅과 다운캐스팅 4.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="업캐스팅과 다운캐스팅 5.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="업캐스팅과 다운캐스팅 6.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="업캐스팅과 다운캐스팅 7.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="업캐스팅과 다운캐스팅 8.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="업캐스팅과 다운캐스팅 9.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="오버라이딩과 오버로딩.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="자명한 생성자가 성능을 올려주는 이유 1.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="자명한 생성자가 성능을 올려주는 이유 2.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="자명한 생성자가 성능을 올려주는 이유 3.cpp">
+      <Filter>소스 파일\12장</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체 1.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체 2.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체 3.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="네임리스 구조체.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체의 크기 1.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체의 크기 2.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체의 크기 3.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체의 크기 4.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체의 복사 vs 배열의 복사 1.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체의 복사 vs 배열의 복사 2.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체의 복사 vs 배열의 복사 3.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체의 복사 vs 배열의 복사 4.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체의 복사 vs 배열의 복사 5.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체를 반환하는 함수.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="union.cpp">
+      <Filter>소스 파일\6장</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
