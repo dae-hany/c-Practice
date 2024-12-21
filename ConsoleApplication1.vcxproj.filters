@@ -31,15 +31,6 @@
     <Filter Include="소스 파일\10장\스마트 포인터">
       <UniqueIdentifier>{662e5027-388a-4218-99f5-73486ec6d285}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\10장\연산자 오버로딩">
-      <UniqueIdentifier>{c5dd3d73-0fcc-4015-971d-ebd7139fde17}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\10장\function chaining">
-      <UniqueIdentifier>{ea090c50-d425-4584-8890-1b89a95fcae0}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\10장\c++ 스타일 print 함수 만들기">
-      <UniqueIdentifier>{333c9301-71d6-4e40-81d1-adee4d115a7c}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\11장">
       <UniqueIdentifier>{c72281c6-16e2-4a7e-8dfd-f5c3295aebf3}</UniqueIdentifier>
     </Filter>
@@ -58,79 +49,88 @@
     <Filter Include="소스 파일\9장">
       <UniqueIdentifier>{3aacccea-6c16-4f1f-8607-af9935bdc345}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\9장\c++ 스타일 print 함수 만들기">
+      <UniqueIdentifier>{333c9301-71d6-4e40-81d1-adee4d115a7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\9장\function chaining">
+      <UniqueIdentifier>{ea090c50-d425-4584-8890-1b89a95fcae0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\9장\연산자 오버로딩">
+      <UniqueIdentifier>{c5dd3d73-0fcc-4015-971d-ebd7139fde17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\과제">
+      <UniqueIdentifier>{9df4fbe6-11c8-4fb0-894a-7d5614880bb1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ConsoleApplication1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="c++ 스타일 print 함수 만들기 1.cpp">
-      <Filter>소스 파일\10장\c++ 스타일 print 함수 만들기</Filter>
+      <Filter>소스 파일\9장\c++ 스타일 print 함수 만들기</Filter>
     </ClCompile>
     <ClCompile Include="c++ 스타일 print 함수 만들기 2.cpp">
-      <Filter>소스 파일\10장\c++ 스타일 print 함수 만들기</Filter>
+      <Filter>소스 파일\9장\c++ 스타일 print 함수 만들기</Filter>
     </ClCompile>
     <ClCompile Include="c++ 스타일 print 함수 만들기 3.cpp">
-      <Filter>소스 파일\10장\c++ 스타일 print 함수 만들기</Filter>
+      <Filter>소스 파일\9장\c++ 스타일 print 함수 만들기</Filter>
     </ClCompile>
     <ClCompile Include="c++ 스타일 print 함수 만들기 4.cpp">
-      <Filter>소스 파일\10장\c++ 스타일 print 함수 만들기</Filter>
+      <Filter>소스 파일\9장\c++ 스타일 print 함수 만들기</Filter>
     </ClCompile>
     <ClCompile Include="c++ 스타일 print 함수 만들기 5.cpp">
-      <Filter>소스 파일\10장\c++ 스타일 print 함수 만들기</Filter>
+      <Filter>소스 파일\9장\c++ 스타일 print 함수 만들기</Filter>
     </ClCompile>
     <ClCompile Include="c++ 스타일 print 함수 만들기 6.cpp">
-      <Filter>소스 파일\10장\c++ 스타일 print 함수 만들기</Filter>
+      <Filter>소스 파일\9장\c++ 스타일 print 함수 만들기</Filter>
     </ClCompile>
     <ClCompile Include="c++ 스타일 print 함수 만들기 7.cpp">
-      <Filter>소스 파일\10장\c++ 스타일 print 함수 만들기</Filter>
+      <Filter>소스 파일\9장\c++ 스타일 print 함수 만들기</Filter>
     </ClCompile>
     <ClCompile Include="c++ 스타일 print 함수 만들기 8.cpp">
-      <Filter>소스 파일\10장\c++ 스타일 print 함수 만들기</Filter>
+      <Filter>소스 파일\9장\c++ 스타일 print 함수 만들기</Filter>
     </ClCompile>
     <ClCompile Include="c++ 스타일 print 함수 만들기 9.cpp">
-      <Filter>소스 파일\10장\c++ 스타일 print 함수 만들기</Filter>
+      <Filter>소스 파일\9장\c++ 스타일 print 함수 만들기</Filter>
     </ClCompile>
     <ClCompile Include="c++ 스타일 print 함수 만들기 연습장.cpp">
-      <Filter>소스 파일\10장\c++ 스타일 print 함수 만들기</Filter>
+      <Filter>소스 파일\9장\c++ 스타일 print 함수 만들기</Filter>
     </ClCompile>
     <ClCompile Include="function chaining 1.cpp">
-      <Filter>소스 파일\10장\function chaining</Filter>
+      <Filter>소스 파일\9장\function chaining</Filter>
     </ClCompile>
     <ClCompile Include="function chaining 2.cpp">
-      <Filter>소스 파일\10장\function chaining</Filter>
+      <Filter>소스 파일\9장\function chaining</Filter>
     </ClCompile>
     <ClCompile Include="function chaining 3.cpp">
-      <Filter>소스 파일\10장\function chaining</Filter>
+      <Filter>소스 파일\9장\function chaining</Filter>
     </ClCompile>
     <ClCompile Include="function chaining 4.cpp">
-      <Filter>소스 파일\10장\function chaining</Filter>
+      <Filter>소스 파일\9장\function chaining</Filter>
     </ClCompile>
     <ClCompile Include="function chaining 5.cpp">
-      <Filter>소스 파일\10장\function chaining</Filter>
+      <Filter>소스 파일\9장\function chaining</Filter>
     </ClCompile>
     <ClCompile Include="연산자 오버로딩 1.cpp">
-      <Filter>소스 파일\10장\연산자 오버로딩</Filter>
+      <Filter>소스 파일\9장\연산자 오버로딩</Filter>
     </ClCompile>
     <ClCompile Include="연산자 오버로딩 2.cpp">
-      <Filter>소스 파일\10장\연산자 오버로딩</Filter>
+      <Filter>소스 파일\9장\연산자 오버로딩</Filter>
     </ClCompile>
     <ClCompile Include="연산자 오버로딩 3.cpp">
-      <Filter>소스 파일\10장\연산자 오버로딩</Filter>
+      <Filter>소스 파일\9장\연산자 오버로딩</Filter>
     </ClCompile>
     <ClCompile Include="연산자 오버로딩 4.cpp">
-      <Filter>소스 파일\10장\연산자 오버로딩</Filter>
+      <Filter>소스 파일\9장\연산자 오버로딩</Filter>
     </ClCompile>
     <ClCompile Include="연산자 오버로딩 5.cpp">
-      <Filter>소스 파일\10장\연산자 오버로딩</Filter>
+      <Filter>소스 파일\9장\연산자 오버로딩</Filter>
     </ClCompile>
     <ClCompile Include="연산자 오버로딩 6.cpp">
-      <Filter>소스 파일\10장\연산자 오버로딩</Filter>
+      <Filter>소스 파일\9장\연산자 오버로딩</Filter>
     </ClCompile>
     <ClCompile Include="연산자 오버로딩 7.cpp">
-      <Filter>소스 파일\10장\연산자 오버로딩</Filter>
-    </ClCompile>
-    <ClCompile Include="스마트 포인터.cpp">
-      <Filter>소스 파일\10장\연산자 오버로딩</Filter>
+      <Filter>소스 파일\9장\연산자 오버로딩</Filter>
     </ClCompile>
     <ClCompile Include="스마트 포인터 1.cpp">
       <Filter>소스 파일\10장\스마트 포인터</Filter>
@@ -237,24 +237,6 @@
     <ClCompile Include="placement new를 이용하여 생성자 여러번 호출.cpp">
       <Filter>소스 파일\10장</Filter>
     </ClCompile>
-    <ClCompile Include="this 포인터 1.cpp">
-      <Filter>소스 파일\10장</Filter>
-    </ClCompile>
-    <ClCompile Include="this 포인터 2.cpp">
-      <Filter>소스 파일\10장</Filter>
-    </ClCompile>
-    <ClCompile Include="스코프와 네임스페이스1.cpp">
-      <Filter>소스 파일\10장</Filter>
-    </ClCompile>
-    <ClCompile Include="스코프와 네임스페이스2.cpp">
-      <Filter>소스 파일\10장</Filter>
-    </ClCompile>
-    <ClCompile Include="스택클래스 외부에서 정의하기.cpp">
-      <Filter>소스 파일\10장</Filter>
-    </ClCompile>
-    <ClCompile Include="스택클래스.cpp">
-      <Filter>소스 파일\10장</Filter>
-    </ClCompile>
     <ClCompile Include="클래스 동적 할당 1.cpp">
       <Filter>소스 파일\10장</Filter>
     </ClCompile>
@@ -265,12 +247,6 @@
       <Filter>소스 파일\10장</Filter>
     </ClCompile>
     <ClCompile Include="클래스 정적 할당.cpp">
-      <Filter>소스 파일\10장</Filter>
-    </ClCompile>
-    <ClCompile Include="클래스의 멤버 변수의 주소.cpp">
-      <Filter>소스 파일\10장</Filter>
-    </ClCompile>
-    <ClCompile Include="클래스의 멤버 함수의 주소.cpp">
       <Filter>소스 파일\10장</Filter>
     </ClCompile>
     <ClCompile Include="STL_ String.cpp">
@@ -695,6 +671,33 @@
     </ClCompile>
     <ClCompile Include="생성자와 파괴자 1.cpp">
       <Filter>소스 파일\8장</Filter>
+    </ClCompile>
+    <ClCompile Include="생성자와 파괴자 2.cpp">
+      <Filter>소스 파일\8장</Filter>
+    </ClCompile>
+    <ClCompile Include="this 포인터 1.cpp">
+      <Filter>소스 파일\9장</Filter>
+    </ClCompile>
+    <ClCompile Include="this 포인터 2.cpp">
+      <Filter>소스 파일\9장</Filter>
+    </ClCompile>
+    <ClCompile Include="스택클래스.cpp">
+      <Filter>소스 파일\9장</Filter>
+    </ClCompile>
+    <ClCompile Include="스택클래스 외부에서 정의하기.cpp">
+      <Filter>소스 파일\9장</Filter>
+    </ClCompile>
+    <ClCompile Include="스코프와 네임스페이스1.cpp">
+      <Filter>소스 파일\9장</Filter>
+    </ClCompile>
+    <ClCompile Include="스코프와 네임스페이스2.cpp">
+      <Filter>소스 파일\9장</Filter>
+    </ClCompile>
+    <ClCompile Include="클래스의 멤버 변수의 주소.cpp">
+      <Filter>소스 파일\9장</Filter>
+    </ClCompile>
+    <ClCompile Include="클래스의 멤버 함수의 주소.cpp">
+      <Filter>소스 파일\9장</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -12,7 +12,7 @@ public:
 
 int main() {
 	char reverse[1024] = "hello"; // 이미 존재하는 메모리 블록 
-	cout << reverse << endl; // hello 출력 
+	cout << reverse << endl;      // hello 출력 
 	cout << sizeof("hello") << endl;
 
 	// placement new : reverse 배열의 시작 주소를 메모리 블록으로 지정하여 객체 생성 
